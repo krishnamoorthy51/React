@@ -109,6 +109,7 @@ body{
   border: unset;
   border-radius: 4px;
   padding-left: 25px;
+  color:#161616;
   /* width: calc(100% - 25px); */
 }
 .staff-name{
