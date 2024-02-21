@@ -50,7 +50,10 @@
     color: #fff;
     border-bottom-right-radius: 8px;
     border-bottom-left-radius: 8px;
+    margin: 0px;
+    height: 65px;
   }
   .pop-cont{
-    padding: 20px;
+    padding: 35px;
+    width: 315px;
   }
